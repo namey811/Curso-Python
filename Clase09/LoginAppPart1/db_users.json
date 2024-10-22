@@ -1,0 +1,12 @@
+{
+    "users":[
+        {
+            "id": "12345678",
+            "name": "Ivan Narvaez",
+            "username": "inarvaez",
+            "password": "123",
+            "email": "ivan.narvaez@gmail.com",
+            "role": "Administrador"
+        }
+    ]
+}
