@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "id": "12345678",
+            "name": "Ivan Narvaez",
+            "username": "inarvaez",
+            "password": "123",
+            "email": "ivan.narvaez@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "987654321",
+            "name": "Sandra Lagares",
+            "username": "slagares",
+            "password": "123",
+            "email": "slagaresz@gmail.com",
+            "role": "Vendedor"
+        },
+        {
+            "id": "102455678",
+            "name": "Dario Mejia",
+            "username": "dmejia",
+            "password": "123",
+            "email": "dmejia@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "789445",
+            "name": "Manuel Lagares",
+            "username": "mlagares",
+            "password": "123",
+            "email": "mlagares@gmail.com",
+            "role": "Vendedor"
+        }
+    ]
+}
